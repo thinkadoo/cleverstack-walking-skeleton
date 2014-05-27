@@ -1,0 +1,38 @@
+{
+  "name": "clever-orm",
+  "version": "0.0.14",
+  "dependencies": {
+    "mysql": "2.0.0-rc2",
+    "sequelize": "1.7.0-beta8"
+  },
+  "author": {
+    "name": "Clevertech",
+    "email": "info@clevertech.biz",
+    "web": "http://www.clevertech.biz"
+  },
+  "collaborators": [
+    "Richard Gustin <richard@clevertech.biz>"
+  ],
+  "description": "Clevertech ORM (SQL) Module for CleverStack",
+  "keywords": [
+    "cleverstack",
+    "cleverstack-module",
+    "cleverstack-backend",
+    "orm",
+    "sequelize",
+    "clevertech",
+    "backend"
+  ],
+  "main": "module.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-prompt": "~0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CleverStack/clever-orm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CleverStack/clever-orm/issues"
+  }
+}
